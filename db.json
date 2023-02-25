@@ -1058,5 +1058,59 @@
         }
         
   ],
-  "cart":[]
+  "cart": [
+    {
+      "obj": {
+        "id": 89,
+        "type": "women",
+        "image": [
+          "https://images.bewakoof.com/t640/freakins-women-blue-solid-skinny-fit-jeggings-450573-1655917488-1.jpg"
+        ],
+        "fit": "Skinny Fit",
+        "title": "Women blue solid skinny fit jeggings",
+        "discountedPrice": 599,
+        "actualPrice": 1999,
+        "loyaltyPrice": 569,
+        "rating": 4.6,
+        "category": "jeggings"
+      },
+      "countity": 1
+    },
+    {
+      "obj": {
+        "id": 89,
+        "type": "women",
+        "image": [
+          "https://images.bewakoof.com/t640/freakins-women-blue-solid-skinny-fit-jeggings-450573-1655917488-1.jpg"
+        ],
+        "fit": "Skinny Fit",
+        "title": "Women blue solid skinny fit jeggings",
+        "discountedPrice": 599,
+        "actualPrice": 1999,
+        "loyaltyPrice": 569,
+        "rating": 4.6,
+        "category": "jeggings"
+      },
+      "countity": 1,
+      "id": 1
+    },
+    {
+      "obj": {
+        "id": 1,
+        "type": "men",
+        "image": [
+          "https://images.bewakoof.com/t640/men-s-black-the-panda-way-oversize-fit-full-sleeve-t-shirt-580633-1676876417-1.jpg"
+        ],
+        "title": "Men's Black The Panda Way Graphic Printed Oversized T-shirt",
+        "discountedPrice": 699,
+        "actualPrice": "₹1499",
+        "loyaltyPrice": "₹639",
+        "fit": "OVERSIZED FIT",
+        "rating": 4.6,
+        "category": "T-shirt"
+      },
+      "countity": 1,
+      "id": 2
+    }
+  ]
 }
