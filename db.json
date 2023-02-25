@@ -1289,8 +1289,8 @@
     }
   ],
   "cart": [
-    {
-      "obj": {
+    
+       {
         "id": 89,
         "type": "women",
         "image": [
@@ -1303,9 +1303,8 @@
         "loyaltyPrice": 569,
         "rating": 4.6,
         "category": "jeggings"
-      },
-      "countity": 1,
-      "id": 1
-    }
+      }
+      
+    
   ]
 }
